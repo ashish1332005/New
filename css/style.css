@@ -1,0 +1,32 @@
+body{
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 40px;
+  background: #f9f9f9;
+  color: #333;
+}
+
+header h1{
+  color: #2b6cb0;
+}
+
+img{
+  border: 1px solid #ddd;
+  padding: 8px;
+  background: #fff;
+}
+
+video{
+  margin-top: 10px;
+  max-width: 100%;
+}
+
+button{
+  padding: 10px 18px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 6px;
+  background: #2b6cb0;
+  color: #fff;
+  border: none;
+}
